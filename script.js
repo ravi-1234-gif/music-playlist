@@ -201,7 +201,7 @@ for (let i = 0; i < allMusic.length; i++) {
       <p>${allMusic[i].artist}</p>
     </div>
     <audio class="${allMusic[i].src} " src="songs/${allMusic[i].src}.mp3"></audio>
-    <span id="${allMusic[i].src}" class="audio-duration">1:45</span>
+    <span id="${allMusic[i].src}" class="audio-duration"></span>
   </li>`;
   ulTag.insertAdjacentHTML("beforeend", liTag);
 
