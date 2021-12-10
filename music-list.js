@@ -36,5 +36,12 @@ let allMusic = [
     img: "music-6",
     src: "music-6"
 },
+    
+{
+    name: "kya mohabbat hai",
+    artist: "Jubin Nautiyal, Tulsi Kumar",
+    img: "music-7",
+    src: "music-7"
+},
 
 ];
